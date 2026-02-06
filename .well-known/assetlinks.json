@@ -1,1 +1,14 @@
-
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.noodles.numbersgrame",
+      "sha256_cert_fingerprints": [
+        "89:65:97:90:33:CD:C3:8C:60:C9:45:29:FC:6C:32:DA:31:45:36:0E:54:DE:C1:9E:4F:E8:F4:D2:B4:19:4D:7E"
+      ]
+    }
+  }
+]
